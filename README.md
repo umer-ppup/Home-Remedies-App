@@ -1,4 +1,4 @@
-# home_remedies
+# Home Remedies App
 
 An application that will cover home remedies according to your symptoms.
 
